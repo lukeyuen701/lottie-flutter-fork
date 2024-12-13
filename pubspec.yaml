@@ -12,12 +12,12 @@ environment:
   flutter: '>=3.27.0'
 
 dependencies:
-  archive: ^3.3.8
+  archive: ^4.0.1
   flutter:
     sdk: flutter
-  http: ^1.0.0
-  path: ^1.8.0
-  vector_math: ^2.1.0
+  http: ^1.2.2
+  path: ^1.9.1
+  vector_math: ^2.1.4
 
 dev_dependencies:
   analyzer:
